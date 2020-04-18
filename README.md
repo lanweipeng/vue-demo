@@ -1,0 +1,10 @@
+vue的一些实践
+vue的组件传参数
+父传子
+1.props
+demo01
+2.$refs
+demo02
+3.children
+demo03
+vue的生命周期
