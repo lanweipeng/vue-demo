@@ -18,5 +18,7 @@ emit on demo04
 父亲->props兄弟2
 demo05
 2层以上传参
-爷爷给孙子传参 demo06
+爷爷给孙子传参 
+provide inject
+demo06
 vue的生命周期
